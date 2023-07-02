@@ -1,3 +1,13 @@
+# Ours
+/env/
+/utils/
+/logs/
+/models/
+/agents/maddpg/
+/agents/ppo_norule/
+/agents/ppo_rule_enhanced/
+/agents/ppo_rnn/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

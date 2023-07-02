@@ -1,0 +1,9 @@
+torch
+matplotlib
+gym
+tensorboardX
+pillow
+numpy
+tabulate
+pyyaml
+loguru
